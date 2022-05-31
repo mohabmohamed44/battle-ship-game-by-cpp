@@ -1,3 +1,3 @@
 # battle-ship-game-by-cpp
 
-# battle ship by using multidimensional arrays in C++
+# battle ship game by using multidimensional arrays in C++
